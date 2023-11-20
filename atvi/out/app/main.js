@@ -32,7 +32,6 @@ var ListagemProdutos_1 = __importDefault(require("../negocio/ListagemProdutos"))
 var ListagemServicos_1 = __importDefault(require("../negocio/ListagemServicos"));
 console.log(chalk_1.default.greenBright("Bem-vindo ao cadastro de clientes do Grupo World Beauty"));
 var empresa = new empresa_1.default();
-// Clientes cadastrados antes do programa
 var cli1 = new cliente_1.default('Victor', 'Vituu', new cpf_1.default('45454545454', new Date(12, 12, 1221)), 'Masculino');
 var cli2 = new cliente_1.default('Ana', 'Gata', new cpf_1.default('89421565454', new Date(12, 12, 1221)), 'Feminino');
 var cli3 = new cliente_1.default('Luiz', 'LULU <3', new cpf_1.default('49478542453', new Date(12, 12, 1221)), 'Masculino');
@@ -111,7 +110,6 @@ cli7.addServico(servico4);
 cli8.addServico(servico5);
 cli9.addServico(servico1);
 cli11.addServico(servico1);
-// FIM
 var execucao = true;
 while (execucao) {
     console.log(chalk_1.default.blackBright("Op\u00E7\u00F5es:"));
