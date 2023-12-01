@@ -1,0 +1,19 @@
+{
+  "name": "atvi-wb",
+  "version": "0.0.1",
+  "description": "avitidade WB",
+  "main": "out/app/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.7.10",
+    "@types/prompt-sync": "^4.1.1",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10",
+    "tsc": "^2.0.4",
+    "typescript": "^5.1.3"
+  }
+}
