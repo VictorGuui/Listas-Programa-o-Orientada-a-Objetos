@@ -7,7 +7,6 @@
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::                (v2.6.6)
 
-2022-12-02 20:12:36.101  INFO 78639 --- [           main] com.wb.wbbackend.WbbackendApplication    : Starting WbbackendApplication v0.0.1-SNAPSHOT using Java 17.0.5 on mateus-silva with PID 78639 (/home/mateus/Documentos/atvi1-POO/atvi4/executavel/wbbackend.jar started by mateus in /home/mateus/Documentos/atvi1-POO/atvi4/executavel)
 2022-12-02 20:12:36.104  INFO 78639 --- [           main] com.wb.wbbackend.WbbackendApplication    : No active profile set, falling back to 1 default profile: "default"
 2022-12-02 20:12:36.752  INFO 78639 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
 2022-12-02 20:12:36.753  INFO 78639 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
